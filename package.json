@@ -1,0 +1,34 @@
+{
+  "name": "alfred-gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "npm",
+    "npms",
+    "npmjs",
+    "alfred",
+    "alfred-workflow",
+    "workflow",
+    "alfy"
+  ],
+  "author": "yangblink",
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^0.8.0",
+    "conf": "^2.0.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^0.25.0"
+  }
+}
