@@ -21,14 +21,14 @@
     "workflow",
     "alfy"
   ],
+  "homepage": "https://github.com/yangblink/alfred-gitlab",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangblink/alfred-gitlab.git"
+  },
   "author": "yangblink",
   "license": "ISC",
   "dependencies": {
-    "alfy": "^0.8.0",
-    "conf": "^2.0.0"
-  },
-  "devDependencies": {
-    "alfy-test": "^0.3.0",
-    "ava": "^0.25.0"
+    "alfy": "^0.8.0"
   }
 }
