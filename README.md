@@ -20,3 +20,4 @@ npm install -g alfred-gitlab
     - GITLAB_HOST: [Your gitlab host]
     - GITLAB_TOKEN: [Your gitlab token]
 5. Click "Save"
+
